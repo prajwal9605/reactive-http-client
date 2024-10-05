@@ -26,6 +26,7 @@ import java.util.function.Predicate;
 
 @Slf4j
 public class ReactiveHttpClient {
+    //This is a reactive http client
 
     private final WebClient httpClient;
 
